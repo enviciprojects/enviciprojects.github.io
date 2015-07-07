@@ -1,0 +1,15 @@
+Package: com.skumarspace.biteSMS2
+Name: biteSMS2
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Shrey S. Kumar
+Author: Shrey S. Kumar
+Section: Tweaks
+Filename: debs//com.skumarspace.biteSMS2_0.0.1-109_iphoneos-arm.deb
+Size: 58808
+MD5sum: f3d5495f0ace69dd57bab77de684cf51
+SHA1: e78ad8abc11b441aff11543253abe1bcb18e38c7
+SHA256: 04a57b4c4454e4a3f3c4f222524c415250ceda926a214a68678c2f0c36754178
+Depiction: http://enviciprojects.github.io/depic/biteSMS2/index.html
