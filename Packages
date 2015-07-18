@@ -1,15 +1,56 @@
-Package: com.skumarspace.biteSMS2
-Name: biteSMS2
-Depends: mobilesubstrate
-Version: 0.0.1
-Architecture: iphoneos-arm
-Description: An awesome MobileSubstrate tweak!
-Maintainer: Shrey S. Kumar
-Author: Shrey S. Kumar
+Package: com.skumarspace.aquarius
+Version: 0.0.1-218
 Section: Tweaks
-Filename: debs//com.skumarspace.biteSMS2_0.0.1-109_iphoneos-arm.deb
-Size: 58808
-MD5sum: f3d5495f0ace69dd57bab77de684cf51
-SHA1: e78ad8abc11b441aff11543253abe1bcb18e38c7
-SHA256: 04a57b4c4454e4a3f3c4f222524c415250ceda926a214a68678c2f0c36754178
-Depiction: http://enviciprojects.github.io/depic/biteSMS2/index.html
+Maintainer: Shrey S. Kumar
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs//com.skumarspace.aquarius_0.0.1-218_iphoneos-arm.deb
+Size: 283958
+Installed-Size: 788
+MD5sum: c36fd6e38c6b7582e8592019a3a970f3
+Description: An awesome MobileSubstrate tweak!
+author: Shrey S. Kumar
+name: Aquarius
+
+Package: com.skumarspace.capacity
+Version: 0.0.1-14
+Section: Tweaks
+Maintainer: Shrey S. Kumar
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs//com.skumarspace.capacity_0.0.1-14_iphoneos-arm.deb
+Size: 9894
+Installed-Size: 88
+MD5sum: 87ad6e63c0227ad0cd0af9cc1aa6838c
+Description: An awesome MobileSubstrate tweak!
+author: Shrey S. Kumar
+name: Capacity
+
+Package: com.skumarspace.miniswipe
+Version: 0.0.1-113
+Section: Tweaks
+Maintainer: Shrey Kumar
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs//com.skumarspace.miniswipe_0.0.1-113_iphoneos-arm.deb
+Size: 8524
+Installed-Size: 72
+MD5sum: e8d2dcb082f9bfa58540f297b25e4a01
+Description: An awesome MobileSubstrate tweak!
+author: Shrey Kumar
+name: MiniSwipe
+
+Package: com.skumarspace.venus
+Version: 0.0.1-2
+Section: Tweaks
+Maintainer: Shrey S. Kumar
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs//com.skumarspace.venus_0.0.1-2_iphoneos-arm.deb
+Size: 3912
+Installed-Size: 56
+MD5sum: c5cd5b6762eb5075d075b18f6d2df5a5
+Description: An awesome MobileSubstrate tweak!
+author: Shrey S. Kumar
+name: Venus
+
