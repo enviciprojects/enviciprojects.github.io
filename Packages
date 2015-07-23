@@ -27,18 +27,32 @@ name: Capacity
 author: Shrey S. Kumar
 
 Package: com.skumarspace.miniswipe
-Version: 0.0.1-113
+Version: 0.0.1-116
 Section: Tweaks
 Maintainer: Shrey Kumar
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs//com.skumarspace.miniswipe_0.0.1-113_iphoneos-arm.deb
-Size: 8524
-Installed-Size: 72
-MD5sum: e8d2dcb082f9bfa58540f297b25e4a01
+Filename: debs//com.skumarspace.miniswipe_0.0.1-116_iphoneos-arm.deb
+Size: 66316
+Installed-Size: 320
+MD5sum: 52678aeebba77ed3a408aaa3f1aea2a1
 Description: An awesome MobileSubstrate tweak!
 name: MiniSwipe
 author: Shrey Kumar
+
+Package: com.skumarspace.sbtextcolor
+Version: 0.0.1-24
+Section: Tweaks
+Maintainer: Shrey S. Kumar
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs//com.skumarspace.sbtextcolor_0.0.1-24_iphoneos-arm.deb
+Size: 14838
+Installed-Size: 136
+MD5sum: 1500a693e10ef1f00bd64eca1f9371ef
+Description: An awesome MobileSubstrate tweak!
+name: SBTextColor
+author: Shrey S. Kumar
 
 Package: com.skumarspace.venus
 Version: 0.0.1-2
