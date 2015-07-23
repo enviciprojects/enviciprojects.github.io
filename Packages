@@ -9,22 +9,22 @@ Size: 283958
 Installed-Size: 788
 MD5sum: c36fd6e38c6b7582e8592019a3a970f3
 Description: An awesome MobileSubstrate tweak!
-author: Shrey S. Kumar
 name: Aquarius
+author: Shrey S. Kumar
 
 Package: com.skumarspace.capacity
-Version: 0.0.1-14
+Version: 0.0.1-30
 Section: Tweaks
 Maintainer: Shrey S. Kumar
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs//com.skumarspace.capacity_0.0.1-14_iphoneos-arm.deb
-Size: 9894
-Installed-Size: 88
-MD5sum: 87ad6e63c0227ad0cd0af9cc1aa6838c
+Filename: debs//com.skumarspace.capacity_0.0.1-30_iphoneos-arm.deb
+Size: 80664
+Installed-Size: 376
+MD5sum: 16eae8e0d4bb4aefafdf8c71b866578f
 Description: An awesome MobileSubstrate tweak!
-author: Shrey S. Kumar
 name: Capacity
+author: Shrey S. Kumar
 
 Package: com.skumarspace.miniswipe
 Version: 0.0.1-113
@@ -37,8 +37,8 @@ Size: 8524
 Installed-Size: 72
 MD5sum: e8d2dcb082f9bfa58540f297b25e4a01
 Description: An awesome MobileSubstrate tweak!
-author: Shrey Kumar
 name: MiniSwipe
+author: Shrey Kumar
 
 Package: com.skumarspace.venus
 Version: 0.0.1-2
@@ -51,6 +51,6 @@ Size: 3912
 Installed-Size: 56
 MD5sum: c5cd5b6762eb5075d075b18f6d2df5a5
 Description: An awesome MobileSubstrate tweak!
-author: Shrey S. Kumar
 name: Venus
+author: Shrey S. Kumar
 
